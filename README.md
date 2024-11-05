@@ -7,7 +7,7 @@ This project was inspired by the [UTRNet High-Resolution Urdu Text Recognition p
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/douhasen/UTRNet-Arabic.git
+git clone https://github.com/DouhaSN/UTRNet-Arabic.git
 ```
 
 2. Install the requirements
